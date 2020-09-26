@@ -40,7 +40,8 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Actividades
 
-1. Darse de alta en CodeSandbox
+1. Darse de alta en _CodeSandbox_ (clase 1).
+1. Crear un _CodeSandbox_ y hacer una _Landing Page_ de presentación (CV o Portafolio) (clase 2).
 
 #### Evaluación
 
