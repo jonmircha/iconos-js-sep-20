@@ -75,6 +75,10 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 1. Sábado 16/Ene (Sólo Licenciatura).
 
+## Códigos de Clase
+
+1. [Introducción a la Programación](https://codesandbox.io/s/introduccion-a-la-programacion-i15il?file=/index.html)
+
 ## Recursos
 
 - [AprendeJavaScript.org](https://aprendejavascript.org/)
