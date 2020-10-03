@@ -52,11 +52,11 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Calificaciones
 
-| Estudiante | A1  | A2  | A3  |     | PA  | F   | CF  |
+| Estudiante | A1  | A2  | A3  | A4  | PA  | F   | CF  |
 | ---------- | --- | --- | --- | --- | --- | --- | --- |
 | Adrián     | 🤓  | 🤓  | 🤓  |     |     |     |
 | Ignacio    | 🤓  | 🤓  | 🤔  |     |     |     |
-| Karen      | 🤓  | 🤓  |     |     |     |     |
+| Karen      | 🤓  | 🤓  | ❌  |     |     |     |
 | Mélissa    | 🤓  | 🤓  | 🤔  |     |     |     |
 | Lupita     | 🤓  | ❌  | 🤓  |     |     |     |
 
