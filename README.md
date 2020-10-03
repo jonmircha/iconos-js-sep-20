@@ -14,6 +14,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 - Karen - karen.bethoven941@gmail.com - [CodeSandbox](https://codesandbox.io/u/Kant_ren941)
 - Mélissa - melissa.gauthier1995@gmail.com - [CodeSandbox](https://codesandbox.io/u/M%C3%A9lissa%20Gauthier)
 - Ignacio - ignaciojrp@gmail.com - [CodeSandbox](https://codesandbox.io/u/nachorp)
+- Lupita - grupoccemexico@hotmail.com - [CodeSandbox](https://codesandbox.io/u/lupitask)
 
 ## Programación _Web_
 
@@ -42,6 +43,8 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 1. Darse de alta en _CodeSandbox_ (clase 1).
 1. Crear un _CodeSandbox_ y hacer una _Landing Page_ de presentación (CV o Portafolio) (clase 2).
+1. Crear una función que imprima en consola tu nombre, edad, correo y una breve descripción de ti, estos valores deben estar almacenados en variables (Clase 2).
+1. Crear la función de la actividad 3 haciendo que el usuario pase la información (nombre, edad, correo y descripción) como parámetros de la función (Clase 3).
 
 #### Evaluación
 
@@ -49,12 +52,13 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Calificaciones
 
-| Estudiante | A1  | PA  | F   | CF  |
-| ---------- | --- | --- | --- | --- |
-| Adrián     | 🤓  |     |     |     |
-| Karen      | 🤓  |     |     |     |
-| Mélissa    | 🤓  |     |     |     |
-| Ignacio    | 🤓  |     |     |     |
+| Estudiante | A1  | A2  | A3  |     | PA  | F   | CF  |
+| ---------- | --- | --- | --- | --- | --- | --- | --- |
+| Adrián     | 🤓  | 🤓  | 🤓  |     |     |     |
+| Ignacio    | 🤓  | 🤓  | 🤔  |     |     |     |
+| Karen      | 🤓  | 🤓  |     |     |     |     |
+| Mélissa    | 🤓  | 🤓  | 🤔  |     |     |     |
+| Lupita     | 🤓  | ❌  | 🤓  |     |     |     |
 
 ### Parcial 2
 
@@ -77,7 +81,8 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 ## Códigos de Clase
 
-1. [Introducción a la Programación](https://codesandbox.io/s/introduccion-a-la-programacion-i15il?file=/index.html)
+1. [Clase 1](https://codesandbox.io/s/introduccion-a-la-programacion-i15il?file=/index.html)
+1. [Clase 2](https://codesandbox.io/s/clase-2-fundamentos-de-javascript-6g2ed?file=/index.html)
 
 ## Recursos
 
