@@ -45,6 +45,8 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. Crear un _CodeSandbox_ y hacer una _Landing Page_ de presentación (CV o Portafolio) (clase 2).
 1. Crear una función que imprima en consola tu nombre, edad, correo y una breve descripción de ti, estos valores deben estar almacenados en variables (Clase 2).
 1. Crear la función de la actividad 3 haciendo que el usuario pase la información (nombre, edad, correo y descripción) como parámetros de la función (Clase 3).
+1. Con lo aprendido de los Tipos de Datos, construye un objeto que dentro tenga tu información personal (nombre, edad, datos de contacto, etc) incluye pasatiempos y la información de tus 3 libros o películas favoritas, dentro de tu objeto incluye todos los tipos de datos vistos hasta el momento (strings, numbers, booleans, functions, arrays y objects) (Clase 3).
+1. Con lo aprendido en clase van a formar la ficha bibliográfica de sus 3 libros favoritos, cada libro sera un objeto, dentro de dicho objeto cada dato del libro será una propiedad del objeto, cada libro deberá tener un método que a la hora de ejecutarlo en la consola, imprima la ficha bibliográfica del mismo. (Clase 4)
 
 #### Evaluación
 
@@ -52,13 +54,13 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Calificaciones
 
-| Estudiante | A1  | A2  | A3  | A4  | PA  | F   | CF  |
-| ---------- | --- | --- | --- | --- | --- | --- | --- |
-| Adrián     | 🤓  | 🤓  | 🤓  |     |     |     |
-| Ignacio    | 🤓  | 🤓  | 🤔  |     |     |     |
-| Karen      | 🤓  | 🤓  | ❌  |     |     |     |
-| Mélissa    | 🤓  | 🤓  | 🤔  |     |     |     |
-| Lupita     | 🤓  | ❌  | 🤓  |     |     |     |
+| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | PA  | F   | CF  |
+| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adrián     | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     | ?   | 0   | ?   |
+| Ignacio    | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  |     | ?   | 0   | ?   |
+| Karen      | 🤓  | 🤓  | ❌  | 🤓  | 🤓  |     | ?   | 0   | ?   |
+| Mélissa    | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  |     | ?   | 0   | ?   |
+| Lupita     | 🤓  | ⏳  | 🤓  | 🤓  | 🤓  |     | ?   | 0   | ?   |
 
 ### Parcial 2
 
@@ -83,6 +85,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 1. [Clase 1](https://codesandbox.io/s/introduccion-a-la-programacion-i15il?file=/index.html)
 1. [Clase 2](https://codesandbox.io/s/clase-2-fundamentos-de-javascript-6g2ed?file=/index.html)
+1. [Clase 3](https://codesandbox.io/s/gifted-goldstine-9gfve?file=/index.html)
 
 ## Recursos
 
