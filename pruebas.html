@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <script>
+    let objeto = {
+      titulo: "Los Culpables",
+      autor: "Juan Villoro",
+      editorial: "Almadía Ediciones S.A.P.I de C.V.",
+      noPaginas: "168 páginas",
+      edicion: "México, 2007(1ª edición).",
+      tema: "Cuento",
+      info: function () {
+        let primerLibro = this.titulo + ". " + this.autor + this.editorial + this.noPaginas + this.edicion + this.tema;
+
+        console.log(primerLibro);
+      }
+    }
+
+    objeto.info();
+  </script>
+</body>
+
+</html>
