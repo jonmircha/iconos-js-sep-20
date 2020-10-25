@@ -41,17 +41,17 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Actividades
 
-1. Darse de alta en _CodeSandbox_ (clase 1).
-1. Crear un _CodeSandbox_ y hacer una _Landing Page_ de presentación (CV o Portafolio) (clase 2).
+1. Darse de alta en _CodeSandbox_ (Clase 1).
+1. Crear un _CodeSandbox_ y hacer una _Landing Page_ de presentación (CV o Portafolio) (Clase 2).
 1. Crear una función que imprima en consola tu nombre, edad, correo y una breve descripción de ti, estos valores deben estar almacenados en variables (Clase 2).
 1. Crear la función de la actividad 3 haciendo que el usuario pase la información (nombre, edad, correo y descripción) como parámetros de la función (Clase 3).
 1. Con lo aprendido de los Tipos de Datos, construye un objeto que dentro tenga tu información personal (nombre, edad, datos de contacto, etc) incluye pasatiempos y la información de tus 3 libros o películas favoritas, dentro de tu objeto incluye todos los tipos de datos vistos hasta el momento (strings, numbers, booleans, functions, arrays y objects) (Clase 3).
-1. Con lo aprendido en clase van a formar la ficha bibliográfica de sus 3 libros favoritos, cada libro sera un objeto, dentro de dicho objeto cada dato del libro será una propiedad del objeto, cada libro deberá tener un método que a la hora de ejecutarlo en la consola, imprima la ficha bibliográfica del mismo. (Clase 4)
-1. Programa un código con condicionales anidados para mandar un saludo en base a la hora del día: Déjame Dormir - 0hrs -5hrs. Buenos dias 6hrs - 11hrs. Buenas tardes 12hrs - 18hrs. Buenas noches 19hrs - 23hrs.
+1. Con lo aprendido en clase van a formar la ficha bibliográfica de sus 3 libros favoritos, cada libro sera un objeto, dentro de dicho objeto cada dato del libro será una propiedad del objeto, cada libro deberá tener un método que a la hora de ejecutarlo en la consola, imprima la ficha bibliográfica del mismo (Clase 4).
+1. Programa un código con condicionales anidados para mandar un saludo en base a la hora del día: Déjame Dormir - 0hrs -5hrs. Buenos dias 6hrs - 11hrs. Buenas tardes 12hrs - 18hrs. Buenas noches 19hrs - 23hrs. (Clase 4).
 1. Programa un código _switch-case_ para imprimir el mes en el que estamos.
-1. Programa una función que repita un texto X veces, pe. miFuncion('Hola Mundo', 3) devolverá Hola Mundo Hola Mundo Hola Mundo.
-1. Programa una función que determine si un número es primo (aquel que solo es divisible por sí mismo y 1) o no, pe. miFuncion(7) devolverá true.
-1. Programa una función que determine si un número es par o impar, pe. miFuncion(29) devolverá Impar.
+1. Programa una función que repita un texto X veces, pe. miFuncion('Hola Mundo', 3) devolverá Hola Mundo Hola Mundo Hola Mundo (Clase 5).
+1. Programa una función que determine si un número es primo (aquel que solo es divisible por sí mismo y 1) o no, pe. miFuncion(7) devolverá true (Clase 5).
+1. Programa una función que determine si un número es par o impar, pe. miFuncion(29) devolverá Impar (Clase 5).
 
 #### Evaluación
 
@@ -77,11 +77,11 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Actividades
 
-1. Programa una función que cuente el número de caracteres de una cadena de texto, pe. miFunción("Hola Mundo") devolverá 10
-1. Programa una función que te devuelva el texto recortado según el número de caracteres indicados, pe. miFunción("Hola Mundo", 4) devolverá "Hola"
-1. Programa una función que dada una String te devuelva un Array de textos separados por cierto caracter, pe. miFuncion('hola que tal', ' ') devolverá ['hola', 'que', 'tal']
-1. Programa una función que invierta las palabras de una cadena de texto, pe. miFuncion("Hola Mundo") devolverá "odnuM aloH"
-1. Programa una función que obtenga un numero aleatorio entre 1 y 100
+1. Programa una función que cuente el número de caracteres de una cadena de texto, pe. miFunción("Hola Mundo") devolverá 10 (Clase 6).
+1. Programa una función que te devuelva el texto recortado según el número de caracteres indicados, pe. miFunción("Hola Mundo", 4) devolverá "Hola" (Clase 6).
+1. Programa una función que dada una String te devuelva un Array de textos separados por cierto caracter, pe. miFuncion('hola que tal', ' ') devolverá ['hola', 'que', 'tal'] (Clase 6).
+1. Programa una función que invierta las palabras de una cadena de texto, pe. miFuncion("Hola Mundo") devolverá "odnuM aloH" (Clase 6).
+1. Programa una función que obtenga un numero aleatorio entre 1 y 100 (Clase 6).
 
 #### Evaluación
 
