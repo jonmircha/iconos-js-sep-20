@@ -47,8 +47,8 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. Crear la función de la actividad 3 haciendo que el usuario pase la información (nombre, edad, correo y descripción) como parámetros de la función (Clase 3).
 1. Con lo aprendido de los Tipos de Datos, construye un objeto que dentro tenga tu información personal (nombre, edad, datos de contacto, etc) incluye pasatiempos y la información de tus 3 libros o películas favoritas, dentro de tu objeto incluye todos los tipos de datos vistos hasta el momento (strings, numbers, booleans, functions, arrays y objects) (Clase 3).
 1. Con lo aprendido en clase van a formar la ficha bibliográfica de sus 3 libros favoritos, cada libro sera un objeto, dentro de dicho objeto cada dato del libro será una propiedad del objeto, cada libro deberá tener un método que a la hora de ejecutarlo en la consola, imprima la ficha bibliográfica del mismo (Clase 4).
-1. Programa un código con condicionales anidados para mandar un saludo en base a la hora del día: Déjame Dormir - 0hrs -5hrs. Buenos dias 6hrs - 11hrs. Buenas tardes 12hrs - 18hrs. Buenas noches 19hrs - 23hrs. (Clase 4).
-1. Programa un código _switch-case_ para imprimir el mes en el que estamos.
+1. Programa un código con condicionales anidados para mandar un saludo en base a la hora del día: Déjame Dormir - 0hrs -5hrs. Buenos dias 6hrs - 11hrs. Buenas tardes 12hrs - 18hrs. Buenas noches 19hrs - 23hrs (Clase 4).
+1. Programa un código _switch-case_ para imprimir el mes en el que estamos (Clase 4).
 1. Programa una función que repita un texto X veces, pe. miFuncion('Hola Mundo', 3) devolverá Hola Mundo Hola Mundo Hola Mundo (Clase 5).
 1. Programa una función que determine si un número es primo (aquel que solo es divisible por sí mismo y 1) o no, pe. miFuncion(7) devolverá true (Clase 5).
 1. Programa una función que determine si un número es par o impar, pe. miFuncion(29) devolverá Impar (Clase 5).
