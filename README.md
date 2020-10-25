@@ -61,11 +61,11 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 | Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | PA  | F   | CF  |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adrián     | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     | ?   | 0   | ?   |
-| Ignacio    | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     | ?   | 0   | ?   |
-| Karen      | 🤓  | 🤓  | ❌  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  |     |     |     | ?   | 0   | ?   |
-| Mélissa    | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     | ?   | 0   | ?   |
-| Lupita     | 🤓  | ⏳  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     | ?   | 0   | ?   |
+| Adrián     | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 11  | 0   | 10  |
+| Ignacio    | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 11  | 0   | 10  |
+| Karen      | 🤓  | 🤓  | ❌  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 10  | 0   | 9   |
+| Mélissa    | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 11  | 0   | 10  |
+| Lupita     | 🤓  | ⏳  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 11  | 1   | 9   |
 
 ### Parcial 2
 
@@ -74,6 +74,28 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. Sábado 14/Nov (8 a 11hrs).
 1. Sábado 21/Nov (8 a 11hrs).
 1. Sábado 28/Nov (8 a 11hrs).
+
+#### Actividades
+
+1. Programa una función que cuente el número de caracteres de una cadena de texto, pe. miFunción("Hola Mundo") devolverá 10
+1. Programa una función que te devuelva el texto recortado según el número de caracteres indicados, pe. miFunción("Hola Mundo", 4) devolverá "Hola"
+1. Programa una función que dada una String te devuelva un Array de textos separados por cierto caracter, pe. miFuncion('hola que tal', ' ') devolverá ['hola', 'que', 'tal']
+1. Programa una función que invierta las palabras de una cadena de texto, pe. miFuncion("Hola Mundo") devolverá "odnuM aloH"
+1. Programa una función que obtenga un numero aleatorio entre 1 y 100
+
+#### Evaluación
+
+- 100% Evaluación Continua.
+
+#### Calificaciones
+
+| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | PA  | F   | CF  |
+| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adrián     |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Ignacio    |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Karen      |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Mélissa    |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Lupita     |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
 
 ### Parcial 3
 
@@ -92,6 +114,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. [Clase 2](https://codesandbox.io/s/clase-2-fundamentos-de-javascript-6g2ed?file=/index.html)
 1. [Clase 3](https://codesandbox.io/s/gifted-goldstine-9gfve?file=/index.html)
 1. [Clase 4](https://codesandbox.io/s/clase-4-5t11g?file=/index.html:2495-2627)
+1. [Clase 5](https://codesandbox.io/s/clase-5-v36rw?file=/index.html)
 
 ## Recursos
 
