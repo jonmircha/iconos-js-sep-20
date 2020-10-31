@@ -65,7 +65,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 | Ignacio    | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 11  | 0   | 10  |
 | Karen      | 🤓  | 🤓  | ❌  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 10  | 0   | 9   |
 | Mélissa    | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 11  | 0   | 10  |
-| Lupita     | 🤓  | ⏳  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 11  | 1   | 9   |
+| Lupita     | 🤓  | ⏳  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 11  | J   | 10  |
 
 ### Parcial 2
 
@@ -82,6 +82,14 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. Programa una función que dada una String te devuelva un Array de textos separados por cierto caracter, pe. miFuncion('hola que tal', ' ') devolverá ['hola', 'que', 'tal'] (Clase 6).
 1. Programa una función que invierta las palabras de una cadena de texto, pe. miFuncion("Hola Mundo") devolverá "odnuM aloH" (Clase 6).
 1. Programa una función que obtenga un numero aleatorio entre 1 y 100 (Clase 6).
+1. Programa una función para contar el número de veces que se repite una palabra en un texto largo, pe. miFuncion("hola mundo adios mundo", "mundo") devolverá 2 (Clase 6 - 7).
+1. Programa una función que valide si una palabra o frase dada, es un palíndromo (que se lee igual en un sentido que en otro), pe. mifuncion("Salas") devolverá true (Clase 6 - 7).
+1. Programa una función para convertir grados Celsius a Fahrenheit y viceversa, pe. miFuncion(0,"C") devolverá 32°F (Clase 6 - 7).
+1. Programa una función que devuelva el monto final después de aplicar un descuento a una cantidad dada, pe. miFuncion(1000, 20) devolverá 800 (Clase 6 - 7).
+1. Programa una función que dada una fecha válida determine cuantos años han pasado hasta el día de hoy, pe. miFuncion(new Date(1984,4,23)) devolverá 36 años (en 2020) (Clase 7).
+1. Programa una función que dado un array numérico devuelve otro array con los números elevados al cuadrado, pe. mi_funcion([1, 4, 5]) devolverá [1, 16, 25] (Clase 7).
+1. Programa una función que dado un array de números devuelva un objeto con 2 arreglos en el primero almacena los números pares y en el segundo los impares, pe. miFuncion([1,2,3,4,5,6,7,8,9,0]) devolverá {pares: [2,4,6,8,0], impares: [1,3,5,7,9]} (Clase 7).
+1. Programa una función que dado un arreglo de números devuelva un objeto con dos arreglos, el primero tendrá los numeros ordenados en forma ascendente y el segundo de forma descendiente, pe. miFuncion([7, 5,7,8,6]) devolverá { asc: [5,6,7,7,8], desc: [8,7,7,6,5] } (Clase 7).
 
 #### Evaluación
 
@@ -89,13 +97,13 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Calificaciones
 
-| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | PA  | F   | CF  |
-| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adrián     |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
-| Ignacio    |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
-| Karen      |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
-| Mélissa    |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
-| Lupita     |     |     |     |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | A12 | A13 | PA  | F   | CF  |
+| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adrián     | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Ignacio    | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Karen      | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Mélissa    | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Lupita     | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
 
 ### Parcial 3
 
@@ -115,6 +123,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. [Clase 3](https://codesandbox.io/s/gifted-goldstine-9gfve?file=/index.html)
 1. [Clase 4](https://codesandbox.io/s/clase-4-5t11g?file=/index.html:2495-2627)
 1. [Clase 5](https://codesandbox.io/s/clase-5-v36rw?file=/index.html)
+1. [Clase 6](https://codesandbox.io/s/clase-6-ng1o4?file=/index.html)
 
 ## Recursos
 
