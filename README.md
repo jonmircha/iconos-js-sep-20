@@ -99,11 +99,11 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 | Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | A12 | A13 | PA  | F   | CF  |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adrián     | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
-| Ignacio    | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
-| Karen      | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
-| Mélissa    | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
-| Lupita     | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |     |     | ?   | 0   | ?   |
+| Adrián     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     |     | ?   | 0   | ?   |
+| Ignacio    | 10  | 10  | 10  | 10  | 10  | 0   | 0   | 0   | 0   |     |     |     |     | ?   | 0   | ?   |
+| Karen      | 10  | 9   | 10  | 9   | 10  | 0   | 0   | 0   | 0   |     |     |     |     | ?   | 0   | ?   |
+| Mélissa    | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     |     | ?   | 0   | ?   |
+| Lupita     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     |     | ?   | 0   | ?   |
 
 ### Parcial 3
 
@@ -130,3 +130,4 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 - [AprendeJavaScript.org](https://aprendejavascript.org/)
 - [Introducción JavaScript](https://jonmircha.com/javascript)
 - [Sintaxis ECMAScript](https://jonmircha.com/ecmascript)
+- [DOM](https://jonmircha.com/dom)
