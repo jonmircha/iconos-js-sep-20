@@ -92,8 +92,8 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. Programa una función que dado un arreglo de números devuelva un objeto con dos arreglos, el primero tendrá los numeros ordenados en forma ascendente y el segundo de forma descendiente, pe. miFuncion([7, 5,7,8,6]) devolverá { asc: [5,6,7,7,8], desc: [8,7,7,6,5] } (Clase 7).
 1. Crear un documento HTML con etiquetas vacias y cargar dinámicamente tu información personal: Nombre, Foto o Imagen, Correo, Pasatiempos. (Clase 8).
 1. Al documento HTML del ejercicio 14, agregarle un botón por cada contenido, al presionar cada botón que aparezca la información en el DOM. Agregar un botón de dark mode que intercambie el color de letra y fondo del documento. (Clase 9).
-1. Reloj Digital.
-1. Menú con sección Activa.
+1. Reloj Digital. (Clase 9).
+1. Menú con sección Activa. (Clase 9).
 
 #### Evaluación
 
