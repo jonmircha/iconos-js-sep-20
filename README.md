@@ -91,6 +91,9 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. Programa una función que dado un array de números devuelva un objeto con 2 arreglos en el primero almacena los números pares y en el segundo los impares, pe. miFuncion([1,2,3,4,5,6,7,8,9,0]) devolverá {pares: [2,4,6,8,0], impares: [1,3,5,7,9]} (Clase 7).
 1. Programa una función que dado un arreglo de números devuelva un objeto con dos arreglos, el primero tendrá los numeros ordenados en forma ascendente y el segundo de forma descendiente, pe. miFuncion([7, 5,7,8,6]) devolverá { asc: [5,6,7,7,8], desc: [8,7,7,6,5] } (Clase 7).
 1. Crear un documento HTML con etiquetas vacias y cargar dinámicamente tu información personal: Nombre, Foto o Imagen, Correo, Pasatiempos. (Clase 8).
+1. Al documento HTML del ejercicio 14, agregarle un botón por cada contenido, al presionar cada botón que aparezca la información en el DOM. Agregar un botón de dark mode que intercambie el color de letra y fondo del documento. (Clase 9).
+1. Reloj Digital.
+1. Menú con sección Activa.
 
 #### Evaluación
 
@@ -98,13 +101,13 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Calificaciones
 
-| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | A12 | A13 | A14 | PA  | F   | CF  |
-| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adrián     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     | ?   | 0   | ?   |
-| Ignacio    | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   | 8   | 10  | 10  | 10  | 0   |     | ?   | 0   | ?   |
-| Karen      | 10  | 9   | 10  | 9   | 10  | 8   | 0   | 8   | 8   | 8   | 8   | 8   | 0   |     | ?   | 0   | ?   |
-| Mélissa    | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     | ?   | 0   | ?   |
-| Lupita     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     | ?   | 0   | ?   |
+| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | A12 | A13 | A14 | A15 | A16 | A17 | PA  | F   | CF  |
+| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adrián     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     | ?   | 0   | ?   |
+| Ignacio    | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   | 8   | 10  | 10  | 10  | 0   | 0   |     |     |     | ?   | 0   | ?   |
+| Karen      | 10  | 9   | 10  | 9   | 10  | 8   | 0   | 8   | 8   | 8   | 8   | 8   | 0   | 10  |     |     |     | ?   | 0   | ?   |
+| Mélissa    | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     | ?   | 0   | ?   |
+| Lupita     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     | ?   | 0   | ?   |
 
 ### Parcial 3
 
@@ -126,6 +129,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. [Clase 5](https://codesandbox.io/s/clase-5-v36rw?file=/index.html)
 1. [Clase 6](https://codesandbox.io/s/clase-6-ng1o4?file=/index.html)
 1. [Clase 7](https://codesandbox.io/s/clase-7-j03ej?file=/index.html)
+1. [Clase 8](https://codesandbox.io/s/clase-8-xhimu?file=/index.html)
 
 ## Recursos
 

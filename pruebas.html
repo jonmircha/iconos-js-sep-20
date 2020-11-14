@@ -6,76 +6,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <title>DOM - Document Object Model</title>
+
 </head>
 
+
 <body>
-  <h1>DOM - Document Object Model</h1>
-  <p id="que-es">
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
-    laboriosam cum quod, perferendis eveniet pariatur facere doloribus
-    adipisci consequatur totam est dolorum vero nisi voluptate porro explicabo
-    quo necessitatibus blanditiis.
-  </p>
-  <nav id="menu">
-    <ul>
-      <li><a href="#">Sección 1</a></li>
-      <li><a href="#">Sección 2</a></li>
-      <li><a href="#">Sección 3</a></li>
-      <li><a href="#">Sección 4</a></li>
-      <li><a href="#">Sección 5</a></li>
-    </ul>
-  </nav>
-  <input type="text" name="nombre" placeholder="Nombre" />
-  <a class="link-dom" data-id="1" data-description="Document Object Model" href="dom.html"
-    style="background-color: #f7df1e; color: #222;">DOM</a>
-  <section class="cards">
-    <figure class="card">
-      <img src="https://placeimg.com/200/200/tech" alt="Tech" />
-      <figcaption>Tech</figcaption>
-    </figure>
-    <figure class="card">
-      <img src="https://placeimg.com/200/200/animals" alt="Animals" />
-      <figcaption>Animals</figcaption>
-    </figure>
-    <figure class="card">
-      <img src="https://placeimg.com/200/200/arch" alt="Architecture" />
-      <figcaption>Architecture</figcaption>
-    </figure>
-    <figure class="card">
-      <img src="https://placeimg.com/200/200/people" alt="People" />
-      <figcaption>People</figcaption>
-    </figure>
-    <figure class="card">
-      <img src="https://placeimg.com/200/200/nature" alt="Nature" />
-      <figcaption>Nature</figcaption>
-    </figure>
-  </section>
-  <ol id="alumnos"></ol>
-  <script>
-    document.documentElement.lang = "es-MX"
-    document.title = "Aprendiendo a interactuar con el DOM";
 
-    const d = document;
-    const $queEsElDOM = d.getElementById("que-es");
-
-    /* textContent - innerHTML */
-    $queEsElDOM.textContent =
-      "El Modelo de Objetos del Documento (<b><i>DOM - Document Object Model</i></b>) es un API para documentos HTML y XML.";
-
-    const alumnos = ["Adrián", "Melissa", "Karen", "Lupita", "Nacho"];
-    const $alumnos = d.getElementById("alumnos");
-
-
-    let codigoHTMLAlumnos = "";
-
-
-    alumnos.forEach((alumno) => {
-      codigoHTMLAlumnos += `<li>${alumno}</li>`;
-    });
-
-    $alumnos.innerHTML = codigoHTMLAlumnos;
-
-  </script>
 </body>
 
 </html>
