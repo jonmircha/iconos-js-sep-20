@@ -93,7 +93,10 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. Crear un documento HTML con etiquetas vacias y cargar dinámicamente tu información personal: Nombre, Foto o Imagen, Correo, Pasatiempos. (Clase 8).
 1. Al documento HTML del ejercicio 14, agregarle un botón por cada contenido, al presionar cada botón que aparezca la información en el DOM. Agregar un botón de dark mode que intercambie el color de letra y fondo del documento. (Clase 9).
 1. Reloj Digital. (Clase 9).
-1. Menú con sección Activa. (Clase 9).
+1. Menú con sección activa. (Clase 9).
+1. Dark Mode (Clase 10).
+1. Slider (Clase 10).
+1. Menu de Hamburguesa (Clase 10).
 
 #### Evaluación
 
@@ -101,13 +104,13 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Calificaciones
 
-| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | A12 | A13 | A14 | A15 | A16 | A17 | PA  | F   | CF  |
-| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adrián     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     | ?   | 0   | ?   |
-| Ignacio    | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   | 8   | 10  | 10  | 10  | 0   | 0   |     |     |     | ?   | 0   | ?   |
-| Karen      | 10  | 9   | 10  | 9   | 10  | 8   | 0   | 8   | 8   | 8   | 8   | 8   | 0   | 10  |     |     |     | ?   | 0   | ?   |
-| Mélissa    | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     | ?   | 0   | ?   |
-| Lupita     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     | ?   | 0   | ?   |
+| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | A12 | A13 | A14 | A15 | A16 | A17 | A18 | A19 | A20 | PA  | F   | CF  |
+| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adrián     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 0   | 0   |     |     |     | ?   | 0   | ?   |
+| Ignacio    | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   | 8   | 10  | 10  | 10  | 0   | 0   | 0   | 0   | 0   |     |     |     | ?   | 0   | ?   |
+| Karen      | 10  | 9   | 10  | 9   | 10  | 8   | 0   | 8   | 8   | 8   | 8   | 8   | 0   | 10  | 8   | 8   | 8   |     |     |     | ?   | 0   | ?   |
+| Mélissa    | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   |     |     |     | ?   | 0   | ?   |
+| Lupita     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     | ?   | 0   | ?   |
 
 ### Parcial 3
 
