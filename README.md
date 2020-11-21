@@ -133,6 +133,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. [Clase 6](https://codesandbox.io/s/clase-6-ng1o4?file=/index.html)
 1. [Clase 7](https://codesandbox.io/s/clase-7-j03ej?file=/index.html)
 1. [Clase 8](https://codesandbox.io/s/clase-8-xhimu?file=/index.html)
+1. [Clase 9](https://codesandbox.io/s/clase-9-lgkdu?file=/index.html)
 
 ## Recursos
 
