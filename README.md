@@ -124,7 +124,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 - Presentación de Proyecto: ¿Que voy a hacer? (Clase 12 - 12/Dic).
 - (**20%**) Entrega de maquetación estática (Clase 13 - 19/Dic).
-- (**80%**) Entrega del proyecto final el **jueves 7 de enero** a más tardar a las 11:59:59pm.
+- (**80%**) Entrega del proyecto final el **jueves 7 de enero de 2021** a más tardar a las 11:59:59pm.
 
 #### Proyecto
 
@@ -149,7 +149,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
   - (**10%**) Con información cargada dinámicamente desde archivo _JSON_.
   - (**10%**) Conversor de Precios (Pesos Mexicanos, Dolares, Euros) mediante _API_ externa.
   - (**10%**) Cambios dinámicos en la _UI_, en base a las interacciones del usuario con las opciones del servicio o producto digital.
-  - (**10%**) Una funcionalidad extra propuesta por el alumno.
+  - (**10%**) Una funcionalidad extra propuesta por el alumno y que no haya sido vista en clase.
 
 ## Códigos de Clase
 
