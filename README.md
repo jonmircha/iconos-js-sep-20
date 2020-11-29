@@ -104,13 +104,13 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 #### Calificaciones
 
-| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | A12 | A13 | A14 | A15 | A16 | A17 | A18 | A19 | A20 | PA  | F   | CF  |
-| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adrián     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 0   | 0   |     |     |     | ?   | 0   | ?   |
-| Ignacio    | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   | 8   | 10  | 10  | 10  | 0   | 0   | 0   | 0   | 0   |     |     |     | ?   | 0   | ?   |
-| Karen      | 10  | 9   | 10  | 9   | 10  | 8   | 0   | 8   | 8   | 8   | 8   | 8   | 0   | 10  | 8   | 8   | 8   |     |     |     | ?   | 0   | ?   |
-| Mélissa    | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   |     |     |     | ?   | 0   | ?   |
-| Lupita     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  |     |     |     | ?   | 0   | ?   |
+| Estudiante | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | A9  | A10 | A11 | A12 | A13 | A14 | A15 | A16 | A17 | PA  | F   | CF  |
+| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adrián     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 9.7 | 0   | 10  |
+| Ignacio    | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   | 8   | 10  | 10  | 10  | 7   | 7   | 7   | 7   | 7   | 8.6 | 1   | 9   |
+| Karen      | 10  | 9   | 10  | 9   | 10  | 8   | 0   | 8   | 8   | 8   | 8   | 8   | 0   | 10  | 8   | 8   | 8   | 7.6 | 0   | 8   |
+| Mélissa    | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 8   | 8   | 8   | 9.6 | 0   | 10  |
+| Lupita     | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 10  | 0   | 10  |
 
 ### Parcial 3
 
@@ -118,10 +118,38 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. Sábado 12/Dic (8 a 11hrs).
 1. Sábado 19/Dic (8 a 11hrs).
 1. Sábado 09/Ene (8 a 11hrs).
+1. Sábado 16/Ene Presentación (Sólo Licenciatura).
 
-### Presentación
+#### Evaluación y Entregas
 
-1. Sábado 16/Ene (Sólo Licenciatura).
+- Presentación de Proyecto: ¿Que voy a hacer? (Clase 12 - 12/Dic).
+- (**20%**) Entrega de maquetación estática (Clase 13 - 19/Dic).
+- (**80%**) Entrega del proyecto final el **jueves 7 de enero** a más tardar a las 11:59:59pm.
+
+#### Proyecto
+
+- Temática: "_Landing Page_ de Lanzamiento de Producto o Servicio Digital".
+- Ejemplos de la temática:
+  - [CreceTube](https://romualdfons.com/premiere-crecetube/)
+  - [Brandismo](https://www.fricmartinez.com/)
+  - [UnderArmour SportsMask](https://about.underarmour.com/news/2020/05/introducing-ua-sportsmask)
+  - [BLVCK PODS PRO](https://blvcksourcemx.com/pages/blkpro)
+  - [Minimalistamente](https://www.minimalistamente.com/)
+  - [Academia Supervivencia](https://www.academiadesupervivencia.com/)
+  - [iPhone 12](https://www.apple.com/mx/shop/buy-iphone/iphone-12/pantalla-de-5.4-pulgadas-64gb-blanco)
+
+#### Características del Proyecto
+
+- El proyecto tendrá que ser programado enteramente en _Vanilla JavaScript_, queda prohibido usar librerías externas.
+- (**10%**) Maquetación Responsiva (_Mobile_ / _Desktop_) puedes usar _Frameworks Webs_ para maquetar.
+- (**10%**) La programación tendrá que estar organizada en módulos, uno por cada funcionalidad.
+- El sitio tendra que integrar las siguientes características:
+  - (**10%**) _Countdown_.
+  - (**10%**) Formulario con envío de información por correo.
+  - (**10%**) Con información cargada dinámicamente desde archivo _JSON_.
+  - (**10%**) Conversor de Precios (Pesos Mexicanos, Dolares, Euros) mediante _API_ externa.
+  - (**10%**) Cambios dinámicos en la _UI_, en base a las interacciones del usuario con las opciones del servicio o producto digital.
+  - (**10%**) Una funcionalidad extra propuesta por el alumno.
 
 ## Códigos de Clase
 
@@ -134,6 +162,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. [Clase 7](https://codesandbox.io/s/clase-7-j03ej?file=/index.html)
 1. [Clase 8](https://codesandbox.io/s/clase-8-xhimu?file=/index.html)
 1. [Clase 9](https://codesandbox.io/s/clase-9-lgkdu?file=/index.html)
+1. [Clase 10](https://codesandbox.io/s/clase-10-hux4z?file=/index.html)
 
 ## Recursos
 
@@ -141,3 +170,6 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 - [Introducción JavaScript](https://jonmircha.com/javascript)
 - [Sintaxis ECMAScript](https://jonmircha.com/ecmascript)
 - [DOM](https://jonmircha.com/dom)
+- [JSON](https://jonmircha.com/json)
+- [AJAX](https://jonmircha.com/ajax)
+- [API REST](https://jonmircha.com/api-rest)
