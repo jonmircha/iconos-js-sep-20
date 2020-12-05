@@ -137,6 +137,8 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
   - [Minimalistamente](https://www.minimalistamente.com/)
   - [Academia Supervivencia](https://www.academiadesupervivencia.com/)
   - [iPhone 12](https://www.apple.com/mx/shop/buy-iphone/iphone-12/pantalla-de-5.4-pulgadas-64gb-blanco)
+  - [CLIU](https://cliu.it/es/)
+  - [Surfshark](https://surfshark.com/es/)
 
 #### Características del Proyecto
 
