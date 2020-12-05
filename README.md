@@ -165,6 +165,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. [Clase 8](https://codesandbox.io/s/clase-8-xhimu?file=/index.html)
 1. [Clase 9](https://codesandbox.io/s/clase-9-lgkdu?file=/index.html)
 1. [Clase 10](https://codesandbox.io/s/clase-10-hux4z?file=/index.html)
+1. [Clase 11](https://codesandbox.io/s/clase-11-dbhoq?file=/index.html)
 
 ## Recursos
 
@@ -174,4 +175,5 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 - [DOM](https://jonmircha.com/dom)
 - [JSON](https://jonmircha.com/json)
 - [AJAX](https://jonmircha.com/ajax)
+- [JavaScript Asíncrono](https://jonmircha.com/javascript-asincrono)
 - [API REST](https://jonmircha.com/api-rest)
