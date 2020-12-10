@@ -124,7 +124,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 
 - Presentación de Proyecto: ¿Que voy a hacer? (Clase 12 - 12/Dic).
 - (**20%**) Entrega de maquetación estática (Clase 13 - 19/Dic).
-- (**80%**) Entrega del proyecto final el **jueves 7 de enero de 2021** a más tardar a las 11:59:59pm.
+- (**80%**) Entrega del proyecto final el **jueves 14 de enero de 2021** a más tardar a las 11:59:59pm.
 
 #### Proyecto
 
