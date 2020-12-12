@@ -140,6 +140,14 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
   - [CLIU](https://cliu.it/es/)
   - [Surfshark](https://surfshark.com/es/)
 
+#### Proyectos Alumnos
+
+- Adrián - Scooter o Sport Band
+- Ignacio - Tienda de Productos Electrónicos.
+- Karen - Productos basados en Cuentos Africanos
+- Mélissa - Gameboy o Mermeladas.
+- Lupita - Tienda de Audífonos o Tienda de Cursos.
+
 #### Características del Proyecto
 
 - El proyecto tendrá que ser programado enteramente en _Vanilla JavaScript_, queda prohibido usar librerías externas.
@@ -166,6 +174,7 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 1. [Clase 9](https://codesandbox.io/s/clase-9-lgkdu?file=/index.html)
 1. [Clase 10](https://codesandbox.io/s/clase-10-hux4z?file=/index.html)
 1. [Clase 11](https://codesandbox.io/s/clase-11-dbhoq?file=/index.html)
+1. [Clase 12](https://codesandbox.io/s/clase-12-9d92l?file=/index.html)
 
 ## Recursos
 
@@ -177,3 +186,4 @@ Repositorio de códigos de la materia Programación _Web_ de ICONOS.
 - [AJAX](https://jonmircha.com/ajax)
 - [JavaScript Asíncrono](https://jonmircha.com/javascript-asincrono)
 - [API REST](https://jonmircha.com/api-rest)
+- [Tecnologías Serverless](https://serverless.css-tricks.com/)
